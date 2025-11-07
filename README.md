@@ -2,7 +2,7 @@
 ## 1. Repositorioa klonatu
 Lehenik eta behin, zure ordenagailura klaseko ereduaren **biltegia jaitsi**:
 ```bash
-git clone https://github.com/zprietof23/PDA-Pseudocodigo-.git
+git clone https://github.com/zprietof23/PDA-Pseudocodean.git
 ```
 
 ## 2. Aldaketa Zerbitzariko aldaketak ikusi
