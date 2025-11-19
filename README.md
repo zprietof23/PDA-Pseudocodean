@@ -1,24 +1,10 @@
 # PDA Pseudocodean
-## 1. Repositorioa klonatu
-Lehenik eta behin, zure ordenagailura klaseko ereduaren **biltegia jaitsi**:
-```bash
-git clone https://github.com/zprietof23/PDA-Pseudocodean.git
-```
+##Erabiltzaile-Pasahitza
 
-## 2. Aldaketa Zerbitzariko aldaketak ikusi
-Lehenik, egiaztatu ea zure biltegia **zaharkituta** dagoen edo **berria** den:
+erabiltzailea = admin    pasahitza = 1234
 
-```bash
-git fetch
-```
-Ondoren, konparatu zure egoera:
-```bash
-git status
-```
+erabiltzailea = ikasle    pasahitza = ikasle123
 
-## 3. Aldaketak deskargatu eta aplikatu
+erabiltzailea = irakasle    pasahitza = irakasle123
 
-Zerbitzariko aldaketak zure ordenagailura ekartzeko eta aplikatzeko:
-```bash
-git pull
-```
+erabiltzailea = erabiltzailea    pasahitza = ''    (Ez dauka, utzi zuriz)
