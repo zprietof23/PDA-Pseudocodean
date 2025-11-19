@@ -1,6 +1,6 @@
 # PDA Pseudocodean
 
-#Erabiltzaile-Pasahitza
+## Erabiltzaile-Pasahitza
 
 erabiltzailea = admin    pasahitza = 1234
 
