@@ -71,105 +71,105 @@ Algoritmo PDA
 						Escribir '3) Atzera joan'
 						Leer langileaukera
 						Según langileaukera Hacer
-					'1':
-						Escribir 'Sartu langilearen ID:'
-						Leer langileID
-						Segun langileID Hacer
-							'38':
-								Escribir 'Izen-abizena: Sonny Russell'
-								Escribir 'Telefonoa: 6.501.211.234'
-								Escribir 'Alta data: 14/07/2016'
-							'39':
-								Escribir 'Izen-abizena: Kian Griffin'
-								Escribir 'Telefonoa: 6.501.212.034'
-								Escribir 'Alta data: 26/10/2016'
-							'40':
-								Escribir 'Izen-abizena: Caleb Diaz'
-								Escribir 'Telefonoa: 6.501.212.019'
-								Escribir 'Alta data: 12/02/2016'
-							'25':
-								Escribir 'Izen-abizena: Ronnie Perry'
-								Escribir 'Telefonoa: 6.501.235.234'
-								Escribir 'Alta data: 16/11/2016'
-							'24':
-								Escribir 'Izen-abizena: Callum Jenkins'
-								Escribir 'Telefonoa: 6.501.234.234'
-								Escribir 'Alta data: 10/10/2016'
-							'23':
-								Escribir 'Izen-abizena: Jackson Coleman'
-								Escribir 'Telefonoa: 6.501.233.234'
-								Escribir 'Alta data: 01/05/2016'
-							'22':
-								Escribir 'Izen-abizena: Liam Henderson'
-								Escribir 'Telefonoa: 6.501.232.234'
-								Escribir 'Alta data: 10/04/2016'
-							'21':
-								Escribir 'Izen-abizena: Jaxon Ross'
-								Escribir 'Telefonoa: 6.501.231.234'
-								Escribir 'Alta data: 18/07/2016'
-							'107':
-								Escribir 'Izen-abizena: Summer Payne'
-								Escribir 'Telefonoa: 5.151.238.181'
-								Escribir 'Alta data: 07/06/2016'
-							'106':
-								Escribir 'Izen-abizena: Rose Stephens'
-								Escribir 'Telefonoa: 5.151.238.080'
-								Escribir 'Alta data: 07/06/2016'
-							'101':
-								Escribir 'Izen-abizena: Annabelle Dunn'
-								Escribir 'Telefonoa: 5.151.234.444'
-								Escribir 'Alta data: 17/09/2016'
 							'1':
-								Escribir 'Izen-abizena: Tommy Bailey'
-								Escribir 'Telefonoa: 5.151.234.567'
-								Escribir 'Alta data: 17/06/2016'
+								Escribir 'Sartu langilearen ID:'
+								Leer langileID
+								Según langileID Hacer
+									'38':
+										Escribir 'Izen-abizena: Sonny Russell'
+										Escribir 'Telefonoa: 6.501.211.234'
+										Escribir 'Alta data: 14/07/2016'
+									'39':
+										Escribir 'Izen-abizena: Kian Griffin'
+										Escribir 'Telefonoa: 6.501.212.034'
+										Escribir 'Alta data: 26/10/2016'
+									'40':
+										Escribir 'Izen-abizena: Caleb Diaz'
+										Escribir 'Telefonoa: 6.501.212.019'
+										Escribir 'Alta data: 12/02/2016'
+									'25':
+										Escribir 'Izen-abizena: Ronnie Perry'
+										Escribir 'Telefonoa: 6.501.235.234'
+										Escribir 'Alta data: 16/11/2016'
+									'24':
+										Escribir 'Izen-abizena: Callum Jenkins'
+										Escribir 'Telefonoa: 6.501.234.234'
+										Escribir 'Alta data: 10/10/2016'
+									'23':
+										Escribir 'Izen-abizena: Jackson Coleman'
+										Escribir 'Telefonoa: 6.501.233.234'
+										Escribir 'Alta data: 01/05/2016'
+									'22':
+										Escribir 'Izen-abizena: Liam Henderson'
+										Escribir 'Telefonoa: 6.501.232.234'
+										Escribir 'Alta data: 10/04/2016'
+									'21':
+										Escribir 'Izen-abizena: Jaxon Ross'
+										Escribir 'Telefonoa: 6.501.231.234'
+										Escribir 'Alta data: 18/07/2016'
+									'107':
+										Escribir 'Izen-abizena: Summer Payne'
+										Escribir 'Telefonoa: 5.151.238.181'
+										Escribir 'Alta data: 07/06/2016'
+									'106':
+										Escribir 'Izen-abizena: Rose Stephens'
+										Escribir 'Telefonoa: 5.151.238.080'
+										Escribir 'Alta data: 07/06/2016'
+									'101':
+										Escribir 'Izen-abizena: Annabelle Dunn'
+										Escribir 'Telefonoa: 5.151.234.444'
+										Escribir 'Alta data: 17/09/2016'
+									'1':
+										Escribir 'Izen-abizena: Tommy Bailey'
+										Escribir 'Telefonoa: 5.151.234.567'
+										Escribir 'Alta data: 17/06/2016'
+									'3':
+										Escribir 'Izen-abizena: Blake Cooper'
+										Escribir 'Telefonoa: 5.151.234.569'
+										Escribir 'Alta data: 13/01/2016'
+									'2':
+										Escribir 'Izen-abizena: Jude Rivera'
+										Escribir 'Telefonoa: 5.151.234.568'
+										Escribir 'Alta data: 21/09/2016'
+									De Otro Modo:
+										Escribir 'Langile ID ez da existitzen.'
+								FinSegún
+							'2':
+								Escribir 'Sartu nagusiaren ID:'
+								Leer nagusiID
+								Según nagusiID Hacer
+									'24':
+										Escribir 'Izen-abizen                                Emaila'
+										Escribir 'Sonny Russell                      sonny.russell@example.com'
+										Escribir 'Kian Griffin                       kian.griffin@example.com'
+										Escribir 'Caleb Diaz                         caleb.diaz@example.com'
+									'1':
+										Escribir 'Izen-abizen                                 Emaila'
+										Escribir 'Ronnie Perry                       ronnie.perry@example.com'
+										Escribir 'Callum Jenkins                     callum.jenkins@example.com'
+										Escribir 'Jackson Coleman                    jackson.coleman@example.com'
+										Escribir 'Liam Henderson                     liam.henderson@example.com'
+										Escribir 'Jaxon Ross                         jaxon.ross@example.com'
+										Escribir 'Blake Cooper                       blake.cooper@example.com'
+										Escribir 'Jude Rivera                        jude.rivera@example.com'
+									'106':
+										Escribir 'Izen-abizen                                   Emaila'
+										Escribir 'Summer Payne                        summer.payne@example.com'
+									'2':
+										Escribir 'Izen-abizen                                    Emaila'
+										Escribir 'Rose Stephens                       rose.stephens@example.com'
+										Escribir 'Annabelle Dunn                      annabelle.dunn@example.com'
+									'0':
+										Escribir 'Izen-abizen                                   Emaila'
+										Escribir 'Tommy Bailey                        tommy.bailey@example.com'
+									De Otro Modo:
+										Escribir 'Nagusi ID ez da existitzen.'
+								FinSegún
 							'3':
-								Escribir 'Izen-abizena: Blake Cooper'
-								Escribir 'Telefonoa: 5.151.234.569'
-								Escribir 'Alta data: 13/01/2016'
-							'2':
-								Escribir 'Izen-abizena: Jude Rivera'
-								Escribir 'Telefonoa: 5.151.234.568'
-								Escribir 'Alta data: 21/09/2016'
+								// itzuli menura
 							De Otro Modo:
-								Escribir 'Langile ID ez da existitzen.'
-						FinSegun
-					'2':
-						Escribir 'Sartu nagusiaren ID:'
-						Leer nagusiID
-						Segun nagusiID Hacer
-							'24':
-								Escribir 'Izen-abizen                                Emaila'
-								Escribir 'Sonny Russell                      sonny.russell@example.com'
-								Escribir 'Kian Griffin                       kian.griffin@example.com'
-								Escribir 'Caleb Diaz                         caleb.diaz@example.com'
-							'1':
-								Escribir 'Izen-abizen                                 Emaila'
-								Escribir 'Ronnie Perry                       ronnie.perry@example.com'
-								Escribir 'Callum Jenkins                     callum.jenkins@example.com'
-								Escribir 'Jackson Coleman                    jackson.coleman@example.com'
-								Escribir 'Liam Henderson                     liam.henderson@example.com'
-								Escribir 'Jaxon Ross                         jaxon.ross@example.com'
-								Escribir 'Blake Cooper                       blake.cooper@example.com'
-								Escribir 'Jude Rivera                        jude.rivera@example.com'
-							'106':
-								Escribir 'Izen-abizen                                   Emaila'
-								Escribir 'Summer Payne                        summer.payne@example.com'
-							'2':
-								Escribir 'Izen-abizen                                    Emaila'
-								Escribir 'Rose Stephens                       rose.stephens@example.com'
-								Escribir 'Annabelle Dunn                      annabelle.dunn@example.com'
-							'0':
-								Escribir 'Izen-abizen                                   Emaila'
-								Escribir 'Tommy Bailey                        tommy.bailey@example.com'
-							De Otro Modo:
-								Escribir 'Nagusi ID ez da existitzen.'
-						FinSegun
-					'3':
-					// itzuli menura
-					De Otro Modo:
-						Escribir 'Aukera baliogabea.'
-					FinSegún
+								Escribir 'Aukera baliogabea.'
+						FinSegún
 					Hasta Que langileaukera='1' O langileaukera='2' O langileaukera='3'
 				'2':
 					// Bezeroak
@@ -183,7 +183,7 @@ Algoritmo PDA
 							'1':
 								Escribir 'Sartu bezeroaren ID:'
 								Leer BezeroID
-								Segun BezeroID Hacer
+								Según BezeroID Hacer
 									'264':
 										Escribir 'Izen-abizen: Tereasa Padilla'
 										Escribir 'Email: tereasa.padilla@jcpenney.com'
@@ -204,56 +204,31 @@ Algoritmo PDA
 										Escribir 'Izen-abizen: Basilia Downs'
 										Escribir 'Email: basilia.downs@vfc.com'
 										Escribir 'Telefono: +41680123571'
-									'269':
-										Escribir 'Izen-abizen: Alessandra Estrada'
-										Escribir 'Email: alessandra.estrada@ameriprise.com'
-										Escribir 'Telefono: +4150123573'
-									'270':
-										Escribir 'Izen-abizen: Sherron Flores'
-										Escribir 'Email: sherron.flores@fnf.com'
-										Escribir 'Telefono: +4180123575'
-									'271':
-										Escribir 'Izen-abizen: Elicia Townsend'
-										Escribir 'Email: elicia.townsend@csc.com'
-										Escribir 'Telefono: +4110123577'
-									'272':
-										Escribir 'Izen-abizen: Percy Hernandez'
-										Escribir 'Email: percy.hernandez@lb.com'
-										Escribir 'Telefono: +4190123579'
-									'273':
-										Escribir 'Izen-abizen: Shelia Cain'
-										Escribir 'Email: shelia.cain@jacobs.com'
-										Escribir 'Telefono: +41690123581'
-									'274':
-										Escribir 'Izen-abizen: Charlene Booker'
-										Escribir 'Email: charlene.booker@republicservices.com'
-										Escribir 'Telefono: +41700123583'
-									'275':
-										Escribir 'Izen-abizen: Mac Mckay'
-										Escribir 'Email: mac.mckay@principal.com'
-										Escribir 'Telefono: +91800123687'
-									'276':
-										Escribir 'Izen-abizen: Jamison Merritt'
-										Escribir 'Email: jamison.merritt@rossstores.com'
-										Escribir 'Telefono: +91800123689'
-									'277':
-										Escribir 'Izen-abizen: Quinton Woods'
-										Escribir 'Email: quinton.woods@bedbathandbeyond.com'
-										Escribir 'Telefono: +91800123695'
 									De Otro Modo:
 										Escribir 'Bezero ID ez da existitzen.'
-								FinSegun
+								FinSegún
 							'2':
 								Escribir 'Sartu bezeroaren ID:'
 								Leer BezeroID
 								Escribir '------------------ FACTURA ------------------'
 								Escribir 'ID Eskari   ID Produktu   Kopurua   Salneurri'
-								Segun BezeroID Hacer
-									'1':
-										Escribir '1          5           138       645,99'
+								Según BezeroID Hacer
+									'264':
+										Escribir '   94           218         86       1388,89'
+									'265':
+										Escribir '    6           138         41        645,99'
+									'266':
+										Escribir '   27           118         12        699,89'
+									'267':
+										Escribir '   20           250         120       338,99'
+										Escribir '   52           269         94       1788,99'
+									'268':
+										Escribir '   40           250         131       338,99'
+										Escribir '   53           180         90       1299,99'
+										Escribir '   55           221         120      1324,99'
 									De Otro Modo:
 										Escribir 'Ez da fakturarik aurkitu bezero honentzat.'
-								FinSegun
+								FinSegún
 								Escribir '---------------------------------------------'
 							'3':
 								// itzuli menura
@@ -292,7 +267,7 @@ Algoritmo PDA
 								Escribir '2    Jude       Rivera     jude.rivera@example.com      5.151.234.568     21/09/2016           1'
 							'2':
 								Escribir '-------------------------------------------- BEZERO.txt --------------------------------------------'
-								Escribir 'ID   IZENA       ABIZENA    HELBIDEA                                    EMAILA'
+								Escribir 'ID    IZENA      ABIZENA              HELBIDEA                                      EMAILA'
 								Escribir '264  Tereasa     Padilla    ViaDelloCroce93,SanGiminiano,               tereasa.padilla@jcpenney.com'
 								Escribir '265  Merrilee    Phillips   RuellaDelleSpiriti,SanGiminiano,            merrilee.phillips@conedison.com'
 								Escribir '266  Tisha       Mcdonald   ViaDelleCapeletti52,SanGiminiano,           tisha.mcdonald@autoliv.com'
