@@ -12,3 +12,7 @@ erabiltzailea = irakasle    pasahitza = irakasle123
 
 
 erabiltzailea = erabiltzailea      pasahitza = ''    (Ez dauka, utzi zuriz)
+
+## PDA-ren diagrama
+
+![Diagrama](img/PDA.svg)
